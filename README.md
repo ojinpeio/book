@@ -8,3 +8,5 @@ http://zmrenwu.com/post/2/
 
 http://interpy.eastlakeside.com
 https://github.com/justjavac/free-programming-books-zh_CN
+
+https://www.gitbook.com/book/looly/elasticsearch-the-definitive-guide-cn/details
